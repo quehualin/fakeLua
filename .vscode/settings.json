@@ -1,0 +1,17 @@
+{
+    "cSpell.ignoreWords": [
+        "lua",
+        "ncalls",
+        "nresult",
+        "nsize",
+        "tboolean",
+        "tfunction",
+        "tlcl",
+        "tlightuserdata",
+        "tnil",
+        "tnone",
+        "tnumber",
+        "ttable",
+        "tthread"
+    ]
+}
